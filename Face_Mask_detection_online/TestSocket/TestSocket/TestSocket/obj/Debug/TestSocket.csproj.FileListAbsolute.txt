@@ -1,0 +1,123 @@
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.csprojAssemblyReference.cache
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.Form1.resources
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.Properties.Resources.resources
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.cache
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CoreCompileInputs.cache
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x64\concrt140.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x64\cvextern.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x64\msvcp140.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x64\opencv_ffmpeg330_64.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x64\vcruntime140.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x86\concrt140.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x86\cvextern.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x86\msvcp140.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x86\opencv_ffmpeg330.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\x86\vcruntime140.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\TestSocket.exe.config
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\Emgu.CV.UI.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\Emgu.CV.World.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\ZedGraph.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\Emgu.CV.UI.xml
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\Emgu.CV.World.xml
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\ZedGraph.xml
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CopyComplete
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+C:\Users\kstdx\source\repos\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csprojAssemblyReference.cache
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.Form1.resources
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.Properties.Resources.resources
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.cache
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.exe.config
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\ZedGraph.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\ZedGraph.xml
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CopyComplete
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\NumpyDotNet.dll
+C:\Users\hajikhan\Desktop\TestSocket\TestSocket\TestSocket\bin\Debug\NumpyLib.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.exe.config
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\NumpyDotNet.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\NumpyLib.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\ZedGraph.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\ZedGraph.xml
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\de\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\es\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\fr\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\hu\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\it\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\ja\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\pt\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\ru\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\sk\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\sv\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\tr\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\zh-cn\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\bin\Debug\zh-tw\ZedGraph.resources.dll
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csprojAssemblyReference.cache
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.Form1.resources
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.Properties.Resources.resources
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.cache
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CoreCompileInputs.cache
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CopyComplete
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+C:\Users\kstdx\Desktop\SocketServerClient\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.exe.config
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.exe
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\TestSocket.pdb
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\NumpyDotNet.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\NumpyLib.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\ZedGraph.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\ZedGraph.xml
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\de\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\es\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\fr\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\hu\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\it\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\ja\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\pt\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\ru\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\sk\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\sv\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\tr\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csprojAssemblyReference.cache
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.Form1.resources
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.Properties.Resources.resources
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.GenerateResource.cache
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CoreCompileInputs.cache
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.csproj.CopyComplete
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.exe
+E:\Github Projects\AIComputerVision\TestSocket\TestSocket\TestSocket\obj\Debug\TestSocket.pdb
