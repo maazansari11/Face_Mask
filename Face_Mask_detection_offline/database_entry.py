@@ -41,6 +41,9 @@ def entry_to_db(folder_path, video_name, video_path, violation_video_path, viola
         cur7.execute(
             "SELECT ID FROM configuration_tbl WHERE configuaration_description_fld = 'Bur Dubai' AND config_type_id = "
             "12;")
+        print(
+            "SELECT ID FROM configuration_tbl WHERE configuaration_description_fld = 'Bur Dubai' AND config_type_id = "
+            "12;")
         site_ins = str(cur7.fetchall()[0][0])
         cur3.close()
         cur7.close()
@@ -61,6 +64,8 @@ def entry_to_db(folder_path, video_name, video_path, violation_video_path, viola
         cur9 = dashboard_db.cursor()
         cur9.execute(
             "SELECT ID FROM camera_configuration_tbl WHERE camera_ip_fid = 'ip' AND config_id_fld = " + site_ins + ";")
+        print(
+            "SELECT ID FROM camera_configuration_tbl WHERE camera_ip_fid = 'ip' AND config_id_fld = " + site_ins + ";")
         camera_ins = str(cur9.fetchall()[0][0])
         cur9.close()
         cur1.close()
@@ -80,6 +85,8 @@ def entry_to_db(folder_path, video_name, video_path, violation_video_path, viola
         cur11 = dashboard_db.cursor()
         cur11.execute("SELECT ID FROM videos WHERE video_name_fld = '" + video_name.split("\\")[-1].split(".")[
             -2] + "' AND camera_config_id = " + camera_ins + ";")
+        print("SELECT ID FROM videos WHERE video_name_fld = '" + video_name.split("\\")[-1].split(".")[
+            -2] + "' AND camera_config_id = " + camera_ins + ";")
         videos_ins = str(cur11.fetchall()[0][0])
         cur11.close()
         cur4.close()
@@ -92,7 +99,7 @@ def entry_to_db(folder_path, video_name, video_path, violation_video_path, viola
     cur5.close()
     # print(insert_query_ct)
 
-    dashboard_db.commit()  # TODO: uncomment this line for actual process
+    # dashboard_db.commit()  # TODO: uncomment this line for actual process
     dashboard_db.close()
 
 # entry_to_db("c:\\\\", "demo.mp4", "c:\\\\video\\\\path.mp4", "c:\\\\violation\\\\video\\\\path.mp4", "c:\\\\violation\\\\image\\\\path.mp4")

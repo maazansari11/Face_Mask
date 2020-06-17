@@ -50,14 +50,14 @@ def create_video(video_name, video_violation_list, fps):
     for v in video_violation_list:
         s = (0, 0)
         start_frame, end_frame = v[0], v[1]
-        print("sf", start_frame, "ef", end_frame)
+        # print("sf", start_frame, "ef", end_frame)
         violation_no = "violation_" + str(no_of_videos)
 
         for fn in range(start_frame, end_frame):
-            print("fn", fn)
+            # print("fn", fn)
             if start_frame <= end_frame:
                 file_name = "face_mask_output" + os.sep + str(fn) + ".jpg"
-                print("filename", file_name)
+                # print("filename", file_name)
                 img = cv2.imread(file_name)
                 try:
                     h, w, l = img.shape
